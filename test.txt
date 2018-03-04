@@ -2,8 +2,6 @@ hello from user 1
 Hi . Nayeem
 Hello from ashfaq
 Hello .....
-<<<<<<< HEAD
 This is another colflicting line.
-=======
 Hello From Nayeem.
->>>>>>> 6fe0ded43c32e6b441a8235bb2c05228d6aee509
+
